@@ -3,3 +3,4 @@
 	echo 'opcache';
 	echo 'lastnews';
 	echo 'add';
+	echo 'test';
